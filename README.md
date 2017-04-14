@@ -1,22 +1,22 @@
 # Compiler
 Compiler design semester final lab project documentation.
 
-#Lab Report 
+# Lab Report 
 
-Problem statement : Project 3
+ Problem statement : Project 3
 
 Input/Output : input string like abcd , adcd, or name 
 
 Important variable: Regular expression  ver 1 to 6
 
-Algorithms :
+Algorithms : How progrma work ??
 
 Str Design :: Flow chart
 
-proofing statement :
+Proofing statement : Why this program is best??
 
-Test Description:
+Test Description: 
 
-knowa Bugs:
+known Bugs: If i an facing any bug. 
 
-Contribution:
+Contribution: one or more contributor if have .
